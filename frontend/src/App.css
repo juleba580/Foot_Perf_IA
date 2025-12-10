@@ -1,0 +1,16 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.loading-full {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}

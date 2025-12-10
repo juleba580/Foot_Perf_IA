@@ -1,0 +1,174 @@
+{
+    "potential": {
+        "seuil": 72,
+        "recommendation": "To maximize your potential, make sure to maintain a good balance between physical and mental training. Work with experienced coaches to identify your strengths and weaknesses, and establish a personalized training plan.",
+        "image" : "./static/imgs/images_predictions/maximer_potentiel.jpg"
+    },
+    "crossing": {
+        "seuil": 52,
+        "recommendation": "To improve your crossing ability, work on your ball-striking technique by crossing from different positions on the field. Also, practice reading the game to anticipate your teammates' movements and adjust your trajectory accordingly.",
+        "image":"./static/imgs/images_predictions/Crossing_Article.avif"
+    },
+    "finishing": {
+        "seuil": 47,
+        "recommendation": "To become a better finisher, practice finishing in various game situations, including one-on-ones with the goalkeeper and shots from tight angles. Also, work on your composure and ability to make quick decisions in front of goal.",
+        "image" : "./static/imgs/images_predictions/meilleur_finisseur.jpg"
+    },
+    "heading_accuracy": {
+        "seuil": 56,
+        "recommendation": "To improve your heading accuracy, focus on your positioning in the penalty area during set pieces. Practice timing your jumps correctly and directing the ball accurately using different parts of your head.",
+        "image" : "./static/imgs/images_predictions/precissions_tete.webp"
+    },
+    "short_passing": {
+        "seuil": 60,
+        "recommendation": "To enhance your short passing game, work on the accuracy and speed of your passes. Also, practice reading the game and anticipating your teammates' movements to distribute the ball effectively.",
+        "image" : "./static/imgs/images_predictions/passe_courtes.gif"
+    },
+    "volleys": {
+        "seuil": 47,
+        "recommendation": "To improve your volley technique, practice striking the ball while it's in the air using different parts of your foot. Also, work on your timing and coordination to strike the ball with precision and power.",
+        "image" : "./static/imgs/images_predictions/volleymain.jpg"
+    },
+    "dribbling": {
+        "seuil": 58,
+        "recommendation": "To become a more effective dribbler, practice dribbling at different speeds and in different directions. Work on your feints and changes of direction to unsettle defenders.",
+        "image" : "./static/imgs/images_predictions/dribleur_efficace.avif"
+    },
+    "curve": {
+        "seuil": 50,
+        "recommendation": "To improve your ability to curve the ball, practice free kicks and long-range shots using the curling technique. Work on rotating your foot upon striking to generate more spin.",
+        "image" : "./static/imgs/images_predictions/couberLaBalle.webp"
+    },
+    "free_kick_accuracy": {
+        "seuil": 47,
+        "recommendation": "To become more accurate on free kicks, work on your striking technique and ball placement. Also, practice analyzing the wall and goalkeeper positioning to choose the best shooting angle.",
+        "image" : "./static/imgs/images_predictions/coupfrancs.jpg"
+    },
+    "long_passing": {
+        "seuil": 55,
+        "recommendation": "To improve your long passing game, work on the accuracy and power of your long-range passes. Also, practice reading the game and anticipating your teammates' movements to distribute the ball effectively.",
+        "image" : "./static/imgs/images_predictions/passelongue.jpg"
+    },
+    "ball_control": {
+        "seuil": 61,
+        "recommendation": "To improve your ball control, practice juggling exercises and control drills under pressure. Also, work on your first touch to control the ball quickly and efficiently.",
+        "image" : "./static/imgs/images_predictions/controle_de_balle.jpg"
+    },
+    "acceleration": {
+        "seuil": 66,
+        "recommendation": "To improve your acceleration, focus on explosive starts and strengthening your leg muscles. Also, practice improving your running technique to maximize your initial speed.",
+        "image" : "./static/imgs/images_predictions/acceleration.webp"
+    },
+    "sprint_speed": {
+        "seuil": 66,
+        "recommendation": "To enhance your sprint speed, work on your running technique and strengthening your leg muscles. Also, practice maintaining good posture and staying relaxed during sprints.",
+        "image" : "./static/imgs/images_predictions/vitesse.webp"
+    },
+    "agility": {
+        "seuil": 64,
+        "recommendation": "To improve your agility, practice coordination and reactivity exercises. Also, work on quick direction changes and lateral movement.",
+        "image" : "./static/imgs/images_predictions/agilite.webp"
+    },
+    "reactions": {
+        "seuil": 64,
+        "recommendation": "To improve your reaction time, practice visual perception exercises and making quick decisions. Also, practice anticipating your teammates' and opponents' movements.",
+        "image" : "./static/imgs/images_predictions/temps_reaction.jpg"
+    },
+    "balance": {
+        "seuil": 64,
+        "recommendation": "To enhance your balance, work on strengthening your stabilizing muscles and proprioception. Also, practice maintaining good posture and controlling your center of gravity.",
+        "image" : "./static/imgs/images_predictions/equilibre.webp"
+    },
+    "shot_power": {
+        "seuil": 59,
+        "recommendation": "To increase the power of your shot, focus on strengthening your leg muscles and efficient striking technique. Also, practice accelerating your striking foot at the moment of impact.",
+        "image" : "./static/imgs/images_predictions/puissance.avif"
+    },
+    "jumping": {
+        "seuil": 66,
+        "recommendation": "To improve your jumping ability, work on strengthening your leg muscles and jumping technique. Also, practice synchronizing your jump with when the ball is at its highest point.",
+        "image" : "../../static/imgs/images_predictions/capacite_saut.jpg"
+    },
+    "stamina": {
+        "seuil": 65,
+        "recommendation": "To improve your endurance, include cardiovascular exercises in your training program and work on your ability to maintain high intensity throughout the match.",
+        "image" : "./static/imgs/images_predictions/stamina.webp"
+    },
+    "strength": {
+        "seuil": 66,
+        "recommendation": "To increase your physical strength, focus on strengthening your major muscles and functional strength training. Also, practice using your strength effectively in physical duels.",
+        "image" : "./static/imgs/images_predictions/force_physique.avif"
+    },
+    "long_shots": {
+        "seuil": 50,
+        "recommendation": "To improve your ability to shoot from distance, work on ball striking technique focusing on power and accuracy. Also, practice reading the game to choose the right moment for long-range shots.",
+       
+
+ "image" : "./static/imgs/images_predictions/longue_tire.jpg"
+    },
+    "aggression": {
+        "seuil": 59,
+        "recommendation": "To increase your level of aggression on the field, engage more in physical duels and show a willingness to win the ball at all costs. However, make sure to channel this aggression positively and disciplinedly.",
+        "image" : "./static/imgs/images_predictions/niveau_agressivite.jpg"
+    },
+    "interceptions": {
+        "seuil": 51,
+        "recommendation": "To improve your interception ability, work on your anticipation and reading of the game. Practice positioning yourself to cut off passing lanes and anticipate your opponents' movements.",
+        "image" : "https://media.istockphoto.com/id/502180310/photo/soccer-players-in-action-on-sunset-stadium-background-panorama.jpg?s=2048x2048&w=is&k=20&c=WynQvgkQMfDiDhw-dQoyUCsD0X6JhhLdZ_RN_Zp0Y4w="
+    },
+    "positioning": {
+        "seuil": 53,
+        "recommendation": "To improve your positioning on the field, study your team's tactical formations and your teammates' movements. Also, practice anticipating game situations and positioning yourself to maximize your impact.",
+        "image" : "./static/imgs/images_predictions/positionnement.jpeg"
+    },
+    "vision": {
+        "seuil": 55,
+        "recommendation": "To develop your game vision, work on your ability to anticipate situations and quickly read the game. Practice lifting your head to spot spaces and making quick, effective decisions.",
+        "image" : "./static/imgs/images_predictions/vision_jeu.avif"
+    },
+    "penalties": {
+        "seuil": 53,
+        "recommendation": "To improve your success rate on penalties, regularly practice penalties and develop a consistent shooting routine. Also, work on your composure and ability to handle pressure.",
+        "image" : "./static/imgs/images_predictions/reussite_tire.webp"
+    },
+    "marking": {
+        "seuil": 46,
+        "recommendation": "To become a better marker, focus on your positioning in relation to your direct opponent. Practice anticipating your opponent's movements and maintaining an appropriate distance to intervene effectively.",
+        "image" : "./static/imgs/images_predictions/meilleur_marquage.jpg"
+    },
+    "standing_tackle": {
+        "seuil": 49,
+        "recommendation": "To improve your standing tackle, work on your timing and tackling technique. Also, practice anticipating the attacker's movements and choosing the right moment to intervene.",
+        "image" : "./static/imgs/images_predictions/tacle_debout.jpg"
+    },
+    "sliding_tackle": {
+        "seuil": 47,
+        "recommendation": "To refine your sliding tackle, practice the sliding tackle technique and ensure precise targeting of the ball. Also, learn to assess the risk of a sliding tackle and use it judiciously.",
+        "image" : "./static/imgs/images_predictions/tacle_glisse.jpg"
+    },
+    "gk_diving": {
+        "seuil": 14,
+        "recommendation": "To improve your diving, focus on your explosiveness and diving technique. Also, practice anticipating the direction of the shot and adjusting your positioning accordingly.",
+        "image" : "./static/imgs/images_predictions/plongeons_goalkeeper.jpg"
+    },
+    "gk_handling": {
+        "seuil": 16,
+        "recommendation": "To perfect your ball handling, work on your hand-eye coordination and receiving technique. Also, practice securing the ball after catching it to avoid rebounds.",
+        "image" : "./static/imgs/images_predictions/priseDeBalle.png"
+    },
+    "gk_kicking": {
+        "seuil": 23,
+        "recommendation": "To improve your kicking game, work on the accuracy and power of your clearances. Also, practice reading the game and choosing the right moment and trajectory for effective distribution.",
+        "image" : "./static/imgs/images_predictions/jeu_au_pied.png"
+    },
+    "gk_positioning": {
+        "seuil": 16,
+        "recommendation": "To improve your positioning, study the opponent's game plans and your teammates' movements. Also, practice anticipating game situations and positioning yourself to reduce shooting angles.",
+        "image" : "./static/imgs/images_predictions/ameliorer_positionnement.jpg"
+    },
+    "gk_reflexes": {
+        "seuil": 17,
+        "recommendation": "To hone your reflexes, perform specific exercises to develop your reaction time. Also, practice staying focused and reacting quickly to opponent's shots, even when unexpectedly called upon.",
+        "image" : "./static/imgs/images_predictions/perfectionner_ses_reflexess.png"
+    }
+}
